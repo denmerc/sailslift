@@ -1,0 +1,5 @@
+[34mdebug: [39m[90m--------------------------------------------------------[39m
+[34mdebug: [39m[90m:: Wed Nov 05 2014 16:07:26 GMT+0530 (India Standard Time)[39m
+[34mdebug: [39mEnvironment : development
+[34mdebug: [39mPort        : \\.\pipe\250042a3-f273-4fdf-8581-decb15b7fa02
+[34mdebug: [39m[90m--------------------------------------------------------[39m

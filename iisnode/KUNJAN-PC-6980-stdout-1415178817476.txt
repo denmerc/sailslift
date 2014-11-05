@@ -1,0 +1,19 @@
+[32minfo: [39m
+[32minfo: [39m
+[32minfo: [39m   Sails              <|
+[32minfo: [39m   v0.10.5             |\
+[32minfo: [39m                      /|.\
+[32minfo: [39m                     / || \
+[32minfo: [39m                   ,'  |'  \
+[32minfo: [39m                .-'.-==|/_--'
+[32minfo: [39m                `--'-------' 
+[32minfo: [39m   __---___--___---___--___---___--___
+[32minfo: [39m ____---___--___---___--___---___--___-__
+[32minfo: [39m
+[32minfo: [39mServer lifted in `C:\Users\kunjandalal\Documents\My Web Sites\sailslift`
+[32minfo: [39mTo see your app, visit [4mhttp://localhost:\\.\pipe\66d9f117-8ddc-4bd1-9441-bd611e53e067[24m
+[32minfo: [39mTo shut down Sails, press <CTRL> + C at any time.
+[37m[39m
+[37m[39m
+[33mwarn: [39mclient not handshaken client should reconnect
+[33mwarn: [39mclient not handshaken client should reconnect
